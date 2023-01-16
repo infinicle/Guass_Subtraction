@@ -1,5 +1,4 @@
-# Image Processing by Subtraction of Multivariate Guassian Distrubution: 
-Image processing of a fluorescing biomolecule in solution.\
+# Fitting of Gaussian Distrubution in Multiple Dimensions.
 
 ## Dependencies and Rescources
 - scipy, numpy, matplot
@@ -7,3 +6,6 @@ Image processing of a fluorescing biomolecule in solution.\
 - documentation]
 
 ## Application
+- Image and general data processing 
+- Noise Reduction
+
